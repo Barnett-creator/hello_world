@@ -1,2 +1,1 @@
-# hello_world
-Just another respository
+Good and clear
